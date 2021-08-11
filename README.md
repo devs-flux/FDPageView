@@ -2,7 +2,7 @@
 
 A custom pageview which support in all swift ui version
 
-we have 2 types pageview
+we have 2 types of pageview
 1.Default
 2.Change UnSelected image
 
