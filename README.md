@@ -27,6 +27,7 @@ FDPageView(currentTab: $currentTab,
 
 Example
 
+```
 import SwiftUI
 import FDPageView
 
@@ -50,7 +51,7 @@ struct ContentView: View {
         })
     }
 }
-
+```
 
 
 
