@@ -25,7 +25,7 @@ FDPageView(currentTab: $currentTab,
            unSelectedItemImage: "yourUnSelectedImageName", selectedItemColor: Color.red, unSelectedItemColor:Color.blue),
            viewHeight: 32)
 ```
-![type1](https://user-images.githubusercontent.com/88543651/129077717-fc8b7e1b-69f1-476e-9cbc-05d9ef636727.gif)
+![type1](https://user-images.githubusercontent.com/88543651/129251974-4973bee0-e3b4-4035-909a-f75f604f6cd0.gif)
 
 
 # Example
