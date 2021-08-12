@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-@available(iOS 13.0, *)
-@available(macOS 10.15, *)
 public struct FDPageView: View {
     @Binding var currentTab:Int
     var style:Style?
@@ -26,9 +24,6 @@ public struct FDPageView: View {
         self.viewHeight = viewHeight
     }
     
-@available(macOS 10.15, *)
-@available(iOS 13.0, *)
-
 public var body: some View {
         ScrollView {
             HStack {
