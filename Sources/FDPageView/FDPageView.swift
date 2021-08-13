@@ -3,10 +3,12 @@
 //  FDPageViewMaster
 //
 //  Created by Mahesh Rathod on 07/08/21.
-//
+//  Copyright © 2020 Flux Developers. All rights reserved.
 
 import SwiftUI
 
+@available(iOS 13.0, *)
+@available(macOS 10.15, *)
 public struct FDPageView: View {
     @Binding var currentTab:Int
     var style:Style?
